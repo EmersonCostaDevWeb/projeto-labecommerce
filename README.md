@@ -107,14 +107,14 @@ As requisições também devem respeitar o que é esperado, você pode confirmar
 
 ### 2. Implementar os Endpoints :
 
-    - [ ]  Get all users
-    - [ ]  Create user
-    - [ ]  Create product
-    - [ ]  Get all products funcionalidades 1 e 2
-    - [ ]  Edit product by id
-    - [ ]  Create purchase
-    - [ ]  Delete purchase by id
-    - [ ]  Get purchase by id
+    - [x]  Get all users
+    - [x]  Create user
+    - [x]  Create product
+    - [x]  Get all products funcionalidades 1 e 2
+    - [x]  Edit product by id
+    - [x]  Create purchase
+    - [x]  Delete purchase by id
+    - [x]  Get purchase by id
 
 ### 3. Documentação no Postman de todos os endpoints (obrigatória para correção), descrevendo os endpoints e colocando os exemplos de respostas 
 
